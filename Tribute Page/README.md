@@ -1,5 +1,5 @@
-# Fred Swaniker Tribute Page
-- As per [the project's instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page), I am required to make a tribute page. I chose to write about Fred Swaniker.
+# Fred Swaniker's Tribute Page
+As per [the project's instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page), I am required to make a tribute page. I chose to write about Fred Swaniker.
 
 ## Files
 | File name | Description |
