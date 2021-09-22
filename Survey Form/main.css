@@ -1,10 +1,11 @@
 
 body{
-      padding: 5em;
+      padding: 0px 200px 0px 200px;
       background-color: bisque;
       display: flex;
       flex-direction: column;
       justify-content: center;
+      min-width: 50%;
 }
 #title{
       color: white;
@@ -23,8 +24,23 @@ body{
       padding: 10px;
       border-radius: 10px;
 }
-input{
+.input{
       border-radius: 5px;
-      width: 100%;
+      width: 50%;
+      height:  30px;
       align-self: flex-start;
+}
+textarea {
+      border-radius: 5px;
+      width: 80%;
+      height: 200px;
+      margin: 0px 0px 5px 0px;
+}
+button {
+      background-color: brown;
+      color: white;
+      border-radius: 10px;      
+}
+.bottom {
+      padding-bottom: 5px;
 }

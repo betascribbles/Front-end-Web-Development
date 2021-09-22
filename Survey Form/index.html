@@ -1,70 +1,55 @@
 <head>
       <link rel="stylesheet" href="main.css">
 </head>
-<body>
-  <header>
-    <h1 id="title" >Share it with us!</h1>
-    <p id="description">
-      Fill this form with your expectations about your software engineering journey
-    </p> 
-  </header>
-  <form id="survey-form" >
-    <div>
-      <label id="name-label" for="name" class="input" >Name</label><br/>
-      <input 
-             id="name" 
-             name="name"
-             placeholder="Enter your name" 
-             type="text" 
-             required><br/>
-      
-      <label id="email-label" for="email" >Email</label><br/>
-      <input 
-             id="email" 
-             name="email"
-             placeholder="Enter your email" 
-             type="email" 
-             required><br/>
-      
-      <label id="number-label" for="months" >How many days have you been taking this course?</label><br/>
-      <input 
-             id="number" 
-             name="months" 
-             placeholder="Enter the number of days" 
-             type="number" 
-             min="0"
-             max="100"><br/>
-      
-     <label  for="dropdown" >Which stage are you currently at?</label><br/> 
-      <select id="dropdown">
-        <option disabled selected value>Your stage</option>
-        <option value="html">HTML module</option>
-        <option value="css">CSS module</option>
-        <option value="js">Javascript module</option></br>
-      </select><br/>
-    
-      <label id="radio-label" for="radio">Which is your favorite language so far?</label><br/> 
-      <option disabled selected value>Select an option</option>
-      <input type="radio" name="radio" value="html" >HTML</input>
-      <input type="radio" name="radio" value="css" >CSS</input>
-      <input type="radio" name="radio" value="js" >Javascript</input><br/>
-      
-      <label id="checkbox-label" for="checkbox">Which languages are you proficient in?</label><br/> 
-      option disabled selected value>Select an option</option>
-      <input type="checkbox" name="checkbox" value="html" >HTML</input><br/>
-      <input type="checkbox" name="checkbox" value="css" >CSS</input><br/>
-      <input type="checkbox" name="checkbox" value="js" >Javascript</input><br/>
 
-      <div>
-        <p>Any comments or suggestions?</p>
-        <textarea
-          id="comments"
-          class="input-textarea"
-          name="comment"
-          placeholder="Enter your comment here..."
-      ></textarea>
-    </div>
-  <button type="submit" id="submit" class="submit-button">Submit</button>
-    </div>
-  </form>
+<body>
+      <header>
+            <h1 id="title">Share it with us!</h1>
+            <p id="description">
+                  Fill this form with your expectations about your software engineering journey
+            </p>
+      </header>
+      <form id="survey-form">
+            <div>
+                  <label id="name-label" for="name">Name</label><br />
+                  <input id="name" name="name" placeholder="Enter your name" type="text" class="input" required><br />
+                  <div class="bottom"></div>
+                  <label id="email-label" for="email">Email</label><br />
+                  <input id="email" name="email" placeholder="Enter your email" type="email" class="input"
+                        required><br />
+                  <div class="bottom"></div>
+                  <label id="number-label" for="months">How many days have you been taking this course?</label><br />
+                  <input id="number" name="months" placeholder="Enter the number of days" type="number" min="0"
+                        max="100" class="input"><br />
+                  <div class="bottom"></div>
+                  <label for="dropdown">Which stage are you currently at?</label><br />
+                  <select id="dropdown">
+                        <option disabled selected value>Your stage</option>
+                        <option value="html">HTML module</option>
+                        <option value="css">CSS module</option>
+                        <option value="js">Javascript module</option></br>
+                  </select><br />
+                  <div class="bottom"></div>
+                  <label id="radio-label" for="radio">Which is your favorite language so far?</label><br />
+                  <option disabled selected value>Select an option</option>
+                  <input type="radio" name="radio" value="html">HTML</input>
+                  <input type="radio" name="radio" value="css">CSS</input>
+                  <input type="radio" name="radio" value="js">Javascript</input><br />
+
+                  <div class="bottom"></div>
+                  <label id="checkbox-label" for="checkbox">Which languages are you proficient in?</label><br />
+                  <option disabled selected value>Select an option</option>
+                  <input type="checkbox" name="checkbox" value="html">HTML</input><br />
+                  <input type="checkbox" name="checkbox" value="css">CSS</input><br />
+                  <input type="checkbox" name="checkbox" value="js">Javascript</input><br />
+
+                  <div>
+                        <p>Any comments or suggestions?</p>
+                        <textarea id="comments" class="input-textarea" name="comment"
+                              placeholder="Enter your comment here...">
+      </textarea>
+                  </div>
+                  <button type="submit" id="submit" class="submit-button">Submit</button>
+            </div>
+      </form>
 </body>
