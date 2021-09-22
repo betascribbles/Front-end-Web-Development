@@ -1,0 +1,30 @@
+
+body{
+      padding: 5em;
+      background-color: bisque;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+}
+#title{
+      color: white;
+      background-color: blueviolet;
+      border-radius: 10px;
+      padding: 10px;
+      text-align: center; 
+}
+#description {
+      color: brown;
+      text-align: center;
+      padding: 0px 20px 0px 20px;
+}
+#survey-form {
+      border: 3px solid purple;
+      padding: 10px;
+      border-radius: 10px;
+}
+input{
+      border-radius: 5px;
+      width: 100%;
+      align-self: flex-start;
+}
