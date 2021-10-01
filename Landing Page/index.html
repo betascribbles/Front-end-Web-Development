@@ -2,47 +2,38 @@
 <html lang="en">
 
 <head>
+      <link rel="stylesheet" href="main.css">
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>SE-alx Program</title>
 </head>
 <header id="header">
-      <img id="header-img" src="./images/header.png" alt="alx-image">
-      <div>
-            <nav id="nav-bar" class="nav-link">
-                  <ul>
-                        <li>
-                              <a href="#home">Home</a>
-                        </li>
-                        <li>
-                              <a href="#video">Video</a>
-                        </li>
-                        <li>
-                              <a href="#contact">Contact Us</a>
-                        </li>
-                  </ul>
-            </nav>
-      </div>
-</header>
+    <img id="header-img" src="https://i.pinimg.com/564x/82/1a/a8/821aa80c546ac7d554e4ac0de0e95cb8.jpg" 
+         alt="logo-image">
+         <nav id="nav-bar" class="nav-link">
+            <ul id="menu">
+                <li><a href="#home" class="nav-link">Home</a></li>
+                <li><a href="#video" class="nav-link">Video</a></li>
+                <li><a href="#contact" class="nav-link">Contact Us</a></li>
+            </ul>
+       </nav>
+</header><br/>
 
-<body>
-      <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=fE-5FPy3tB8" frameborder="0"
-                  id="videp" allowfullscreen></iframe>
-            </iframe>
+<body id="home">
+      <div id="video">
+          <iframe id="video" src="https://www.youtube.com/embed/9YffrCViTVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+          </iframe>
       </div>
-      <br>
-      <div>
+      <div id="contact">
             <form action="" id="form">
                   <h3>Contact us</h3>
                   <label for="email">Email</label>
-                  <input type="email" name="email" id="email" required>
-                  <label for="message">Message</label>
-                  <textarea name="message" id="text_area" cols="30" rows="10"></textarea>
-                  <button id="submit" type="submit">Submit</button>
+                  <input placeholder="Enter your email" type="email" name="email" id="email" required><br>
+                  <label for="message">Message</label><br>
+                  <textarea name="message" id="text_area" cols="30" rows="10"></textarea><br>
+                  <input id="submit" type="submit"></input>
             </form>
       </div>
 </body>
-
 </html>
