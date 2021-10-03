@@ -4,6 +4,6 @@ I had started to learn web development in this awesome website in 2019 but I was
 ## Projects
 <ol>Tribute Page [</>](https://github.com/betascribbles/FreeCodeCamp/tree/master/Tribute%20Page) | [LIVE](https://fred-swaniker-tributepage.netlify.app/)</ol>
 <ol>Survey Form [</>](https://github.com/betascribbles/FreeCodeCamp/tree/master/Survey%20Form) | [LIVE](https://dummy-survey-form.netlify.app/)</ol>
-<ol>Product Landing Page [</>]() | [LIVE]()</ol>
-<ol>Technical Documentation Template [</>]() | [LIVE]()</ol>
-<ol>Portfolio [</>]() | [LIVE]()</ol>
+<ol>Product Landing Page [</>](https://github.com/betascribbles/FreeCodeCamp/tree/master/Landing%20Page) | [LIVE](https://myproduct-landing-page.netlify.app/)</ol>
+<ol>Technical Documentation Template [</>](https://github.com/betascribbles/FreeCodeCamp/tree/master/Technical%20Doc) | [LIVE](https://technical-docu.netlify.app/)</ol>
+<ol>My Portfolio [</>](https://github.com/betascribbles/FreeCodeCamp/tree/master/Portfolio) | [LIVE](https://firdaus-hassan-salim.netlify.app/)</ol>
