@@ -9,3 +9,9 @@ I had started to learn web development in this awesome website in 2019 but I was
 3. Product Landing Page [</>](https://github.com/betascribbles/FreeCodeCamp/tree/master/Landing%20Page) | [LIVE](https://myproduct-landing-page.netlify.app/)
 4. Technical Documentation Template [</>](https://github.com/betascribbles/FreeCodeCamp/tree/master/Technical%20Doc) | [LIVE](https://technical-docu.netlify.app/)
 5. My Portfolio [</>](https://github.com/betascribbles/FreeCodeCamp/tree/master/Portfolio) | [LIVE](https://firdaus-hassan-salim.netlify.app/)
+
+#
+
+### Author
+<b>Firdaus H. Salim [BetaScribbles](https://github.com/betascribbles)<b>
+  <P> &copy; 2021</p>
