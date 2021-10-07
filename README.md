@@ -11,6 +11,10 @@ I had started to learn web development in this awesome website in 2019 but I was
 4. Technical Documentation Template [</>](https://github.com/betascribbles/FreeCodeCamp/tree/master/Technical%20Doc) | [LIVE](https://technical-docu.netlify.app/)
 5. My Portfolio [</>](https://github.com/betascribbles/FreeCodeCamp/tree/master/Portfolio) | [LIVE](https://firdaus-hassan-salim.netlify.app/)
 
+| Key |
+|------|
+| Click [</>](https://github.com/betascribbles/FreeCodeCamp) to see the code |
+| Click [LIVE](https://github.com/betascribbles/FreeCodeCamp) to see the site |
 #
 
 ### Author
