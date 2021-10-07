@@ -1,6 +1,6 @@
 <img src=./banner.png>
 
-# [freecodecamp.org](freecodecamp.org)
+# [freecodecamp.org](https://www.freecodecamp.org/)
 I had started to learn web development in this awesome website in 2019 but I was not consistence enough to continue with it. I had resumed with the course on 1st September 2021 and now I am done with the [Responsive Web Design module](https://www.freecodecamp.org/learn/responsive-web-design/). I got to do 5 projects and earned my first certification from there. This repo contains these and any more projects that I will do in my freecodecamp learning journey.
 
 ## Projects
