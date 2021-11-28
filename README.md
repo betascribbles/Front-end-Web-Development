@@ -2,7 +2,7 @@
 
 # [freecodecamp.org](https://www.freecodecamp.org/)
 ## Responsive Web Design
-I had started to learn web development in this awesome website in 2019 but I was not consistent enough to proceed with it. I had resumed with the course on 1st September 2021 and now I am done with the [Responsive Web Design module](https://www.freecodecamp.org/learn/responsive-web-design/). I got to do 5 projects and earned my first [certification](https://www.freecodecamp.org/certification/betascribbles/responsive-web-design) from there. This repo contains the projects I did in my Responsive Web Design learning journey
+I had started to learn web development in this awesome website and now I am done with the [Responsive Web Design module](https://www.freecodecamp.org/learn/responsive-web-design/). I got to do 5 projects and earned my first [certification](https://www.freecodecamp.org/certification/betascribbles/responsive-web-design) from there. This repo contains the projects I did in my Front-end Web Development learning journey
 
 ## Projects
 1. Tribute Page [</>](https://github.com/betascribbles/FreeCodeCamp/tree/master/Tribute%20Page) | [LIVE](https://fred-swaniker-tributepage.netlify.app/)
